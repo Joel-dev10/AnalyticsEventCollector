@@ -17,7 +17,7 @@ analytics-api/
 │   └── utils/
 │       └── aggregations.py
 │
-├── alembic/                ← for migrations
+├── alembic/                
 ├── alembic.ini
 │
 ├── Dockerfile
